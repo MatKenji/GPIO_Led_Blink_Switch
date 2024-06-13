@@ -42,3 +42,5 @@ Considerações
 3. A implementação de um debounce simples no software ajuda a garantir que o sistema responda apenas às mudanças de estado reais do botão, ignorando ruídos ou flutuações de curto prazo.
 
 4. Aumentar a frequência de piscagem do LED pode resultar em um consumo de energia mais alto. Isso é importante considerar em aplicações alimentadas por bateria ou com restrições de energia.
+
+**Nota:** Os arquivos de código fornecidos neste repositório foram desenvolvidos usando STM32CubeIDE. Devido a limitações de minha experiência com o STM32CubeIDE, a importação direta do projeto para o Git pode não ter sido feita da maneira mais eficiente ou padronizada. 
